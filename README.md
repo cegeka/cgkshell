@@ -14,7 +14,7 @@ shell.
 
 Example usage:
 
-```python
+```
 (cgklibs)[14:32] nighty@saltmine CgkShell$ ipython --no-banner
 WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.
 
